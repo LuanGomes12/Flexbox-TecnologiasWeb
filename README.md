@@ -1,2 +1,2 @@
-# Flexbox-TecnologiasWeb
-Atividade de Tecnologias Web. Laboratório de CSS - Flexbox.
+# Tecnologias-Web
+Utilização do display flex em aplicações CSS.
